@@ -229,14 +229,18 @@ a {
     font-weight: bold;
 }
 
-a:hover{
+a:hover {
     color: lightblue;
 }
 
-#Skills:hover,#Achievements:hover,#Contact:Hover,#About:Hover,#Education:hover{
-    background-color:darkgrey;
+#Skills:hover,
+#Achievements:hover,
+#Contact:Hover,
+#About:Hover,
+#Education:hover {
+    background-color: darkgrey;
 }
 
-.email-icon:hover{
+.email-icon:hover {
     filter: invert(100%);
 }
